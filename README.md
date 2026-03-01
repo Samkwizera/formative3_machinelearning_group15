@@ -27,8 +27,8 @@ Team Members
 
 | Member | Part |
 |--------|------|
-| **Gaju Keane** | Part 1 - Bivariate Normal Distribution |
-| **Samuel Kwizera Ihimbazwe** | Part 2 - Bayesian Probability |
+| **Samuel Kwizera Ihimbazwe** | Part 1 - Bivariate Normal Distribution |
+| **Gaju Keane** | Part 2 - Bayesian Probability |
 | **Rachel Toronga** | Part 3 - Gradient Descent |
 | **Parfait Christian Henry UHIRIWE** | Part 4 - Additional ML Concepts |
 
